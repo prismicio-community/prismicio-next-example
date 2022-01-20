@@ -1,0 +1,15 @@
+{
+  "_cts": {
+    "page": {
+      "header": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      }
+    }
+  },
+  "slices": {
+    "Home": {}
+  }
+}
